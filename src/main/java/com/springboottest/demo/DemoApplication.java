@@ -10,8 +10,8 @@ public class DemoApplication {
 		SpringApplication.run(DemoApplication.class, args);
 		System.out.println("aaaaaaaaaaaaaaaaaaaa");
 		System.out.println("aaaaaaaaaaaaaaaaaaaa");
-		System.out.println("aaaaaaaaaaaaaaaaaaaa");
-		System.out.println("aaaaaaaaaaaaaaaaaaaa");
+		System.out.println("bbbbbbbbbbbbbbbbbbbbb");
+		System.out.println("bbbbbbbbbbbbbbbbbbbbb");
 		System.out.println("aaaaaaaaaaaaaaaaaaaa");
 	}
 
